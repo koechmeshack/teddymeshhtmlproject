@@ -1,0 +1,29 @@
+p{
+  color: blue;
+  font-family: "DejaVu Sans Mono";
+
+}
+body{
+  background-image: url("../img/ps.jpeg");
+  background-size: cover ;
+  background-repeat:no-repeat ;
+}
+table{
+  width: 100px;
+  border-collapse: collapse;
+  border:double;
+}
+th,td{
+  font-size:50px;
+  font-family: Chilanka;
+  text-align: center;
+  color: chartreuse;
+}
+tr:nth-child(even){
+
+  background-color:;
+}
+style
+.phones{
+    font-size: large;
+}
